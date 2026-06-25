@@ -1,6 +1,7 @@
 # CivicAid
 
-**Find local help, instantly — no forms, no runaround.**
+**Find help near you.
+Describe what you're going through. We'll connect you with local programs, benefits, and support tailored to your situation.**
 
 CivicAid is an AI-powered resource navigator that helps people in crisis find real local support programs — food assistance, emergency housing, legal aid, medical care, and more — in seconds. Built with Claude AI, it translates complex government and nonprofit services into plain language anyone can understand, in 24 languages.
 
